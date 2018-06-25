@@ -1,0 +1,13 @@
+[log]
+file = "output.log"
+level = "info"
+
+[db]
+url = "iot_center.db"
+
+[mqtt]
+server = "localhost:8883"
+user = "admin"
+password = "admin"
+ca_path = "/tmp/ca.pem"
+topics = ["/sensors"]
