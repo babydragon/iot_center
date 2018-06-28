@@ -2,6 +2,11 @@
 name = "iot_center"
 version = "0.0.1"
 authors = ["babydragon <jlj.babydragon@gmail.com>"]
+description = "simple iot center to receive from mqtt and save to sqlite"
+
+repository = "https://github.com/babydragon/iot_center"
+readme = "README.md"
+license = "MIT"
 
 [dependencies]
 rumqtt = "0.10.1"
