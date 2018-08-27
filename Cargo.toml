@@ -10,7 +10,7 @@ license = "MIT"
 
 [dependencies]
 rumqtt = "0.10.1"
-rusqlite = "0.13.0"
+rusqlite = "0.14.0"
 serde = "1.0"
 serde_derive = "1.0"
 serde_json = "1.0"
